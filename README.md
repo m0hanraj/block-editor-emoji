@@ -1,4 +1,4 @@
-# WP Block Editor Emoji
+# Block Editor Emoji
 
 Contributors: Mohan Raj Pachaiyappan 
 Tags: emoji, wp-emoji, block-editor-emoji, wp-block-editor, block-editor  
