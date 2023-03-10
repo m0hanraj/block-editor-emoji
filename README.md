@@ -1,11 +1,11 @@
 # Block Editor Emoji
 
-Contributors: Mohan Raj Pachaiyappan 
-Tags: emoji, wp-emoji, block-editor-emoji, wp-block-editor, block-editor  
-Requires at least: 4.2  
-Tested up to: 6.1  
-Stable tag: 1.0.0
-Requires PHP: 5.6  
+Contributors: Mohan Raj Pachaiyappan \
+Tags: emoji, wp-emoji, block-editor-emoji, wp-block-editor, block-editor\
+Requires at least: 5.1\
+Tested up to: 6.1.1\
+Stable tag: 1.0.0\
+Requires PHP: 5.6\
 Contributor link: https://github.com/m0hanraj
 
 WP Block Editor Emoji enables you to add emojis to the posts, pages by hitting :(colon)
