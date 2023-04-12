@@ -14,6 +14,8 @@ WP Block Editor Emoji enables you to add emojis to the posts, pages by hitting :
 
 WP Block Editor Emoji will show emojis by hitting `:` in the post body. You can also search your intended emoji by typing the relevant keyword for example by typing :sunglass will show 😎.
 
+WordPress Plugin Page: [https://wordpress.org/plugins/block-editor-emoji](https://wordpress.org/plugins/block-editor-emoji/)
+
 
 
 ## Frequently Asked Questions
